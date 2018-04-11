@@ -1,0 +1,3 @@
+{
+    "rabbitmq_server": "amqp://ccm:abc123@172.16.2.12:5672/ccm-host"
+}
